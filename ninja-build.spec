@@ -12,6 +12,7 @@ Source1:        ninja.vim
 BuildRequires:  asciidoc
 BuildRequires:  gtest-devel
 BuildRequires:  re2c
+BuildRequires:  xsltproc
 
 %description
 Ninja is a small build system with a focus on speed. It differs from other
