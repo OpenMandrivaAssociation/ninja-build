@@ -1,6 +1,6 @@
 Name:           ninja-build
 Version:        1.4.0
-Release:        1
+Release:        2
 Group:          Development/Other
 Summary:        A small build system with a focus on speed
 
@@ -12,8 +12,6 @@ Source1:        ninja.vim
 BuildRequires:  asciidoc
 BuildRequires:  gtest-devel
 BuildRequires:  re2c
-Requires:       emacs-filesystem
-Requires:       vim-filesystem
 
 %description
 Ninja is a small build system with a focus on speed. It differs from other
