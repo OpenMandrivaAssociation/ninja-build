@@ -1,6 +1,6 @@
 Name:           ninja-build
 Version:        1.4.0
-Release:        5
+Release:        6
 Group:          Development/Other
 Summary:        A small build system with a focus on speed
 
